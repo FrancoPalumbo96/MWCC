@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MozillaWebXR",
+"productVersion": "0.1",
+"dataUrl": "MWCCvTest1.8 - HBAO off & MyCameraDrag.data.unityweb",
+"wasmCodeUrl": "MWCCvTest1.8 - HBAO off & MyCameraDrag.wasm.code.unityweb",
+"wasmFrameworkUrl": "MWCCvTest1.8 - HBAO off & MyCameraDrag.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
